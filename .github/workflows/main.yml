@@ -1,4 +1,4 @@
-name: h2r
+name: RDP
 
 on:
   workflow_dispatch:
